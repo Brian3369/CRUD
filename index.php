@@ -18,7 +18,6 @@ $conexion = new Conexion();
   <script src="JS/script.js"></script>
 
   <h1 class="text-center p-3">CRUD PHP</h1>
-  <h3>Test</h3>
   <div class="container-fluid row">
     <form class="col-4 p-3" method="POST">
       <h3 class="text-center text-secundary">Registro</h3>
